@@ -16,7 +16,7 @@ You need to have cargo and rust installed: https://www.rust-lang.org/tools/insta
    ```
    ./target/release/civilization_v_drafter
    ```
-4. For more informations run
+4. For more information run
    ```
    ./target/release/civilization_v_drafter --help
    ```
